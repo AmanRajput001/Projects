@@ -10,7 +10,3 @@ Technologies Used:
 - CSS: Employed for styling and layout adjustments.
 - JavaScript: Implemented for interactive features and distance calculation.
 
-Preview:
-
-[Distance Calculator Preview](preview.png)
-
