@@ -7,6 +7,6 @@ Accessing the Website:
 Technologies Used:
 
 - HTML: Used for structuring the web page content.
-- CSS: Employed for styling and layout adjustments.
+- CSS/Bootsrap: Employed for styling and layout adjustments.
 - JavaScript: Implemented for interactive features and distance calculation.
 
