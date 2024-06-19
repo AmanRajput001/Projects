@@ -2,7 +2,7 @@ Weather Details
 ====================
 
 Accessing the Website:
-   - Click on the following link to open the Weather Details: [Weather Details](https://amanrajput001.github.io/Projects/Javascript_Projects/Weather_Details/)
+   - Click on the following link to open the Weather Details: [Weather Details](https://amanrajput001.github.io/Projects/Javascript_Projects/Weather_Detail/)
 
 Technologies Used:
 
