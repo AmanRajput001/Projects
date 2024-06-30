@@ -74,6 +74,7 @@ eventcontainer.addEventListener('click', function (e) {
 
         }
         saveData();
+        window.location.reload();
     }
 }, false);
 
