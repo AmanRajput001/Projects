@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#57A6A1;
+}
+
+a{
+    text-decoration: none;
+}
+
+.game-container{
+    margin: auto;    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-wrap: wrap;
+    border: 2px solid #f5c299;
+    border-radius: 10px;
+    gap: 20px;
+    padding: 10px;
+    width: 40vmax;
+    height: 80vmin;
+    background-color: #F6B17A;
+}
+
+.heading{
+    font-family: 'popins', sans-serif, Arial, Helvetica;
+    text-align: center;
+    color: #535C91;
+    margin-top: 5px;
+}
+
+.heading h1{
+    font-size: 7vmin;
+    color: #1B1A55;
+}
+
+#line-1{
+    height: 2px;
+    background-color: whitesmoke;
+    margin: 20px 20%;
+}
+
+.btn{    
+    width: 10vmax;
+    height: 20vmin;
+    border-radius: 20px;
+    font-size: 15vmin;
+    color: #A0153E;
+    background-color: whitesmoke;
+}
+
+.buttons-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.re-load {
+    width: 15vmin;
+    height: 7vmin;
+    border-radius: 20px;
+    font-size: 3.5vmin;
+    padding: 2px;
+    background-color: #A0153E;
+    border: 2px solid rgba(132, 24, 60, 0.879);
+    color: #f5c299;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s, color 0.3s;
+    margin-bottom: 5px;
+}
+
+.re-load:hover {
+    background-color: #f5c299;
+    color: #A0153E;
+}
+
+.re-load-svg {
+    background-color: #A0153E;
+    fill: currentColor;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.re-load:hover .re-load-svg {    
+    background-color: #f5c299;
+    fill: #A0153E;
+}
+
+
+#replay{
+    display: none;
+}
+
+.result{
+    display: none;
+    font-size: 6vmin;
+    font-family: 'popins', sans-serif, Arial, Helvetica;
+    text-align: center;
+    color: #f5c299;
+    margin: 5px 20% 10px 20%;
+    padding: 5px 0;
+    border-radius: 50px;
+    background-color: rgb(17, 128, 84);
+    border: 2px solid rgb(9, 66, 43);
+}
