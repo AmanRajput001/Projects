@@ -34,7 +34,6 @@ function eventCreate(text, checked) {
     li.appendChild(btn1);
     li.appendChild(btn2);
 
-    
     window.location.reload();
 }
 
